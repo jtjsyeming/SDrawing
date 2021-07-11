@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\paint.Properties.Resources.resources
+obj\Debug\paint.csproj.GenerateResource.Cache
+bin\Debug\paint.exe
+bin\Debug\paint.pdb
+obj\Debug\paint.exe
+obj\Debug\paint.pdb
+bin\Debug\ColorHatch.pdb
+bin\Debug\ColorHatch.xml
+obj\Debug\paint.Draw.resources
