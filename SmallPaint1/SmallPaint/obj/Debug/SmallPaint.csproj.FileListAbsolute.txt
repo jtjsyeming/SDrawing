@@ -1,0 +1,13 @@
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\obj\Debug\SmallPaint.csproj.AssemblyReference.cache
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\obj\Debug\SmallPaint.Properties.Resources.resources
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\obj\Debug\SmallPaint.csproj.GenerateResource.cache
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\obj\Debug\SmallPaint.csproj.CoreCompileInputs.cache
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\bin\Debug\SmallPaint.exe.config
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\bin\Debug\SmallPaint.exe
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\bin\Debug\SmallPaint.pdb
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\bin\Debug\ColorHatch.pdb
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\bin\Debug\ColorHatch.xml
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\obj\Debug\SmallPaint.SmallPaint.resources
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\obj\Debug\SmallPaint.csproj.CopyComplete
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\obj\Debug\SmallPaint.exe
+C:\Users\vsdiagtester\Desktop\100Git\SDrawing\SmallPaint1\绘图程序\obj\Debug\SmallPaint.pdb
